@@ -9,6 +9,7 @@ public class Fibonacci {
 		int n1 = 0, n2 = 1, n3 = n1 + n2;
 		int upto = 8;
 		int cnt = 3;
+		String demo;
 		System.out.println(n1 + " " + n2 + " " + n3 + " ");
 	
 		while (cnt < upto) {
